@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "IPSYP.play.hosting",
-    "port": 25893,
+    "ip": "62.141.62.25",
+    "port": 65345,
     "version": "1.21.1"
   },
   "position": {
